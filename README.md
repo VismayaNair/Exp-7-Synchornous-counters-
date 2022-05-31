@@ -109,31 +109,31 @@ endmodule
 
 ## UP COUNTER:
 
-[output](UP1.png)
+![output](UP1.png)
 
 ## DOWN COUNTER :
 
-[output](D1.png)
+![output](D1.png)
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 ## Up counter:
 
-[output](up2.png)
+![output](up2.png)
 
 ## DOWN COUNTER :
 
-[output](d2.png)
+![output](d2.png)
 
 ### TRUTH TABLE 
 
 ## UP counter:
 
-[output](new31.png)
+![output](new31.png)
 
 ## DOWN counter :
 
-[output](new32.png)
+![output](new32.png)
 
 
 ### RESULTS :
